@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/custom_btn" android:duration="5000"/>
+    <item android:drawable="@drawable/curom_one" android:duration="6000"/>
+    <item android:drawable="@drawable/cutom_three" android:duration="5000"/>
+    <item android:drawable="@drawable/custom_four" android:duration="5000"/>
+
+
+</animation-list>

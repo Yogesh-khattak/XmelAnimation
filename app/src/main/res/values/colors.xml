@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="green">#5FE4D7</color>
+    <color name="yellow">#ECB11F</color>
+    <color name="red">#D36464</color>
+    <color name="bangan">#A846DA</color>
+    <color name="saleti">#C1E49357</color>
+    <color name="gran">#E37246</color>
+    <color name="gree">#08E4C4</color>
+</resources>

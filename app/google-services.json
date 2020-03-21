@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105263374021",
+    "firebase_url": "https://xmelanimation.firebaseio.com",
+    "project_id": "xmelanimation",
+    "storage_bucket": "xmelanimation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105263374021:android:359d7c42a45f387a079aac",
+        "android_client_info": {
+          "package_name": "com.yogesh.xmelanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105263374021-cfveui18nult5dqjetu3tutmnoq2sns9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogesh.xmelanimation",
+            "certificate_hash": "8aef0a27547bbe22ca0dd8546b09757ea759e3c1"
+          }
+        },
+        {
+          "client_id": "105263374021-ighlp4slbasnas4kr1huiu5v13tskib4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsybuRqdlkzC3hnPeF1zCAUEhiRfuWETY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105263374021-ighlp4slbasnas4kr1huiu5v13tskib4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/ly">
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="100dp"
+        android:layout_height="53dp"
+        android:layout_marginLeft="33dp"
+        android:text="fade in"
+        />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:layout_marginLeft="40dp"
+        android:text="fade out"
+       />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+       android:text="Blink"
+         />
+
+    <Button
+        android:id="@+id/button_zomm"
+        android:layout_width="151dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Zoom in and out" />
+
+    <Button
+        android:id="@+id/button_rotate"
+        android:layout_width="166dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Rotate" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="152dp"
+        android:layout_height="58dp"
+        android:layout_marginLeft="40dp"
+        android:text="move" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Slide up" />
+
+    <Button
+        android:id="@+id/button_down"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="slide down" />
+
+    <Button
+        android:id="@+id/button2_bb"
+        android:layout_width="127dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Bounce" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Seqntial animation" />
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="Toghter"/>
+</LinearLayout>

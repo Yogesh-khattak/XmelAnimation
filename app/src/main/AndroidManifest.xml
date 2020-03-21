@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yogesh.xmelanimation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MyNotifition.Togther"></activity>
+        <activity android:name=".Seqntial" />
+        <activity android:name=".MyNotifition.Bounce" />
+        <activity android:name=".MyNotifition.SlidDown" />
+        <activity android:name=".SlideUp" />
+        <activity android:name=".MyNotifition.Mov" />
+        <activity android:name=".Rota" />
+        <activity android:name=".MyNotifition.ZoomINAndOut" />
+        <activity android:name=".MyNotifition.Blink" />
+
+        <service android:name=".MyNotifition.MyService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".FadeOut" />
+        <activity android:name=".Fade_iin" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
